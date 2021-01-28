@@ -1,0 +1,71 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.headSection{
+	background:#284020;
+}
+.header{
+	background:#284020;
+	height: 50px;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.header h1{
+	text-align:center;
+	color: #FFFF00;font-size:30px;
+}.banner{
+	margin:0 auto;
+}
+.banner img{
+	margin-left:205px;
+	border-radius: 25px 15px 25px 20px;
+	margin-bottom:25px;
+}
+.textPara{
+	width:auto;
+	background: url(images/pattern_light.png);
+}.para{
+	margin-left:200px;
+	margin-right:200px;
+	padding:25px 2px;
+}
+.para h1{
+	
+	padding: 12px;
+}
+.para p{
+	padding: 5px;
+}
+.3rdsection{
+	background:navy;
+	
+}
+.box{
+	width:900;
+	background:red;
+	margin-left: 200px;
+	overflow:hidden;
+	margin-right: 200px;
+	
+	
+}
+.title{
+	width:300px;
+	border: 2px solid gray;
+	margin-bottom: 20px;
+	background: #463212;
+	float:left;
+	padding: 20px;
+	margin-left: 60px;
+	margin-top: 40px;
+border: 2px solid green;border-radius:30px; 
+}
+.title h3{
+	color:yellow;
+	font-size: 30px;
+	font-family:open-sans;
+}.title p{
+	padding: 10px;
+	color:gray;
+}
